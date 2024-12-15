@@ -1,0 +1,38 @@
+[
+  {
+    "marca": "Drean",
+    "modelo": "Excellent Blue 8.12",
+    "carga": "Frontal",
+    "capacidad": "8 Kilos",
+    "centrifugado": "800 RPM",
+    "fabricante": "Alladio",
+    "repuestos": {
+      "rodamientos": [6204, 6205],
+      "reten": "30 52 8.5/10.5",
+      "eje": "6 tornillos de costado",
+      "electrovalvula": "1E 2S 180° cuello largo",
+      "amortiguadores": "Drean",
+      "motor": "7 pines a carbon cuadrado",
+      "fuelle": "Drean Blue con pipa",
+      "polea": "Encastre Rectangular"
+    }
+  },
+  {
+    "marca": "Mabe",
+    "modelo": "LVMB078D",
+    "carga": "Frontal",
+    "capacidad": "7 Kilos",
+    "centrifugado": "800 RPM",
+    "fabricante": "Alladio",
+    "repuestos": {
+      "rodamientos": [6203, 6204],
+      "reten": "25 47 8/11.5",
+      "eje": "3 tornillos de costado",
+      "electrovalvula": "1E 2S 180° cuello largo",
+      "amortiguadores": "Drean",
+      "motor": "7 pines a carbon redondo",
+      "fuelle": "Drean Blue con pipa",
+      "polea": "Cono"
+    }
+  }
+]
